@@ -3,14 +3,14 @@
     <StaticWebAssetEndpoint Include="_content/OllamaDeepSeek/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IRImL\u002BSJHtPHsxHowtR92KI4\u002BL2PqTMYjCLE4lIFmXA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2422"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IRImL\u002BSJHtPHsxHowtR92KI4\u002BL2PqTMYjCLE4lIFmXA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 12:39:26 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Eq1T69AFJnr/JgWwiFSBS2p51pbhpjoVyc9kGzIj1aI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2619"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Eq1T69AFJnr/JgWwiFSBS2p51pbhpjoVyc9kGzIj1aI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 20:38:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/OllamaDeepSeek/css/site.zrb1gv9itc.css">
+    <StaticWebAssetEndpoint Include="_content/OllamaDeepSeek/css/site.my1cugyio0.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zrb1gv9itc"},{"Name":"integrity","Value":"sha256-IRImL\u002BSJHtPHsxHowtR92KI4\u002BL2PqTMYjCLE4lIFmXA="},{"Name":"label","Value":"_content/OllamaDeepSeek/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2422"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IRImL\u002BSJHtPHsxHowtR92KI4\u002BL2PqTMYjCLE4lIFmXA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 12:39:26 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"my1cugyio0"},{"Name":"integrity","Value":"sha256-Eq1T69AFJnr/JgWwiFSBS2p51pbhpjoVyc9kGzIj1aI="},{"Name":"label","Value":"_content/OllamaDeepSeek/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2619"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Eq1T69AFJnr/JgWwiFSBS2p51pbhpjoVyc9kGzIj1aI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 20:38:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/OllamaDeepSeek/deepseek.alaq0ir471.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\deepseek.png'))</AssetFile>

@@ -27,10 +27,9 @@ body {
   text-align: start;
 }
 
-/* Estilo do spinner no chat */
 .spinner-message {
   display: flex;
-  justify-content: flex-start; /* Alinha à esquerda */
+  justify-content: flex-start; 
   align-items: center;
   padding: 10px;
 }
@@ -38,10 +37,9 @@ body {
 .spinner-grow {
   width: 1.5rem;
   height: 1.5rem;
-  margin-right: 10px; /* Espaçamento à direita do spinner */
+  margin-right: 10px; 
 }
 
-/* Estilo da mensagem do assistente */
 .message.assistant {
   background: #f1f1f1;
   color: black;
@@ -50,9 +48,6 @@ body {
   border-radius: 5px;
     margin: 5px 0;
 }
-
-/*arqui*/
-
 
 
 body {
@@ -136,3 +131,10 @@ body {
 .display-4{
   font-weight: bold; color: #1a73e8 !important;
 }
+
+.chat-box { height: 400px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; }
+.message { padding: 5px; margin: 5px; border-radius: 5px; }
+.user { background: #007bff; color: white; text-align: right; }
+.chat-form { display: flex; margin-top: 10px; }
+.chat-form input { flex: 1; padding: 5px; }
+.chat-form button { padding: 5px 10px; }
