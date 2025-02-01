@@ -5,7 +5,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
 
 namespace OllamaDeepSeek.Controllers;
 
-public class ChatController(HttpClient httpClient) : Controller{
+public class ChatController() : Controller{
 
     [HttpGet]
     public async Task GetChatResponse([FromQuery] string message){

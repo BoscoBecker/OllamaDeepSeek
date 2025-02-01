@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OllamaDeepSeek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a89a0f59ee4db7883601682f1277bd796c09e3d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f95692f7131d5b0ec87e492a3f2c7d0179d1c16")]
 [assembly: System.Reflection.AssemblyProductAttribute("OllamaDeepSeek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OllamaDeepSeek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
