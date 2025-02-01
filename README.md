@@ -1,6 +1,8 @@
 ﻿#  Stream Chat DeepSeek Offline with Ollama  
 
-![image](https://github.com/user-attachments/assets/c9e44aab-a0f8-48c7-b669-aa52d478af36)
+![image](https://github.com/user-attachments/assets/9dfdb376-7b1f-4c1d-bf1f-efe052f24b8f)
+
+
 
 
 ## Technologies Used
@@ -13,7 +15,7 @@ This project integrates the **DeepSeek** model with the **Ollama** service, allo
 - **Application Route**: [http://localhost:5268](http://localhost:5268)
 - **Ollama API Endpoint**: [http://localhost:11434/api/chat](http://localhost:11434/api/chat)
 
-![image](https://github.com/user-attachments/assets/67e78042-f1d8-45df-99f3-f4083ed24c1c)
+![image](https://github.com/user-attachments/assets/8e0a45c2-2da2-428b-b0c3-1c1706102d64)
 
 
 ## Functionality
