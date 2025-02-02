@@ -204,8 +204,9 @@ D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\OllamaDee
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\scopedcss\bundle\OllamaDeepSeek.styles.css
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\scopedcss\projectbundle\OllamaDeepSeek.bundle.scp.css
+D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\aa2ytb6jno-my1cugyio0.gz
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\r6of1awgyb-61n19gt1b8.gz
-D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\4ekkybjlyn-xtxxf3hu2r.gz
+D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\4ekkybjlyn-yz8w04n08d.gz
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\y6kq0f630w-t1cqhe9u97.gz
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\ox6ks8xodq-c2jlpeoesf.gz
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\brts0idqvr-sejl45xvog.gz
@@ -282,4 +283,3 @@ D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\refint\Ol
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\OllamaDeepSeek.pdb
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\OllamaDeepSeek.genruntimeconfig.cache
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\ref\OllamaDeepSeek.dll
-D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\aa2ytb6jno-my1cugyio0.gz
