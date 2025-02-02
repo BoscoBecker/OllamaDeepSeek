@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace OllamaDeepSeek.Pages;
 
@@ -13,6 +12,6 @@ public class ChatRequest : PageModel{
 }
 
 public class ChatMessage{
-        public required string Role { get; set; }
-        public required  string Content { get; set; }
-    }
+    public required string Role { get; set; }
+    public required  string Content { get; set; }
+}

@@ -5,7 +5,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
 namespace OllamaDeepSeek.Controllers;
 
 public class ChatController() : Controller{
-    private static CancellationTokenSource _cts = new CancellationTokenSource();
+    private static CancellationTokenSource _cts = new();
     
     [HttpGet]
     public async Task<IActionResult > Cancel(){
