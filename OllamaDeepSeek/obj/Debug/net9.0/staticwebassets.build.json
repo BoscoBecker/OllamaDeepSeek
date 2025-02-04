@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a1es5XSOh1HcsZJtGcgEhd+K3bMP0iicHwr/J1Ny4i8=",
+  "Hash": "p1OfvjDO0axnr40RSscvq0GNcEOMR9mHwwYm+xzuz6g=",
   "Source": "OllamaDeepSeek",
   "BasePath": "_content/OllamaDeepSeek",
   "Mode": "Default",
@@ -248,12 +248,12 @@
       "OriginalItemSpec": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-yz8w04n08d.gz",
+      "Identity": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-tnqc2vczbq.gz",
       "SourceId": "OllamaDeepSeek",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/OllamaDeepSeek",
-      "RelativePath": "js/site#[.{fingerprint=yz8w04n08d}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=tnqc2vczbq}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -262,8 +262,8 @@
       "RelatedAsset": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "juzaigrk1h",
-      "Integrity": "Beo3ajxYJXXe/vzr1a7E5b7URR8v+DmddhXVWcacSgI=",
+      "Fingerprint": "nezn7bke28",
+      "Integrity": "/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\wwwroot\\js\\site.js"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yz8w04n08d",
-      "Integrity": "cgpo3G/Nl1G3bexM/mAVc/Hd0vy+mChHr0EhlfE8FcE=",
+      "Fingerprint": "tnqc2vczbq",
+      "Integrity": "B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -3428,12 +3428,12 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-yz8w04n08d.gz",
+      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-tnqc2vczbq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000731528895"
+          "Quality": "0.000703729768"
         }
       ],
       "ResponseHeaders": [
@@ -3443,15 +3443,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1366"
+          "Value": "1420"
         },
         {
           "Name": "ETag",
-          "Value": "\"Beo3ajxYJXXe/vzr1a7E5b7URR8v+DmddhXVWcacSgI=\""
+          "Value": "\"/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:44:27 GMT"
+          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3471,13 +3471,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cgpo3G/Nl1G3bexM/mAVc/Hd0vy+mChHr0EhlfE8FcE=\""
+          "Value": "W/\"B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cgpo3G/Nl1G3bexM/mAVc/Hd0vy+mChHr0EhlfE8FcE="
+          "Value": "sha256-B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y="
         }
       ]
     },
@@ -3492,7 +3492,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4644"
+          "Value": "4799"
         },
         {
           "Name": "Content-Type",
@@ -3500,11 +3500,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cgpo3G/Nl1G3bexM/mAVc/Hd0vy+mChHr0EhlfE8FcE=\""
+          "Value": "\"B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:44:27 GMT"
+          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3514,13 +3514,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cgpo3G/Nl1G3bexM/mAVc/Hd0vy+mChHr0EhlfE8FcE="
+          "Value": "sha256-B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-yz8w04n08d.gz",
+      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-tnqc2vczbq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3529,7 +3529,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1366"
+          "Value": "1420"
         },
         {
           "Name": "Content-Type",
@@ -3537,11 +3537,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Beo3ajxYJXXe/vzr1a7E5b7URR8v+DmddhXVWcacSgI=\""
+          "Value": "\"/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:44:27 GMT"
+          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3559,18 +3559,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Beo3ajxYJXXe/vzr1a7E5b7URR8v+DmddhXVWcacSgI="
+          "Value": "sha256-/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg="
         }
       ]
     },
     {
-      "Route": "js/site.yz8w04n08d.js",
-      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-yz8w04n08d.gz",
+      "Route": "js/site.tnqc2vczbq.js",
+      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-tnqc2vczbq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000731528895"
+          "Quality": "0.000703729768"
         }
       ],
       "ResponseHeaders": [
@@ -3580,15 +3580,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1366"
+          "Value": "1420"
         },
         {
           "Name": "ETag",
-          "Value": "\"Beo3ajxYJXXe/vzr1a7E5b7URR8v+DmddhXVWcacSgI=\""
+          "Value": "\"/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:44:27 GMT"
+          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3608,13 +3608,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cgpo3G/Nl1G3bexM/mAVc/Hd0vy+mChHr0EhlfE8FcE=\""
+          "Value": "W/\"B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yz8w04n08d"
+          "Value": "tnqc2vczbq"
         },
         {
           "Name": "label",
@@ -3622,12 +3622,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cgpo3G/Nl1G3bexM/mAVc/Hd0vy+mChHr0EhlfE8FcE="
+          "Value": "sha256-B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y="
         }
       ]
     },
     {
-      "Route": "js/site.yz8w04n08d.js",
+      "Route": "js/site.tnqc2vczbq.js",
       "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3637,7 +3637,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4644"
+          "Value": "4799"
         },
         {
           "Name": "Content-Type",
@@ -3645,11 +3645,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cgpo3G/Nl1G3bexM/mAVc/Hd0vy+mChHr0EhlfE8FcE=\""
+          "Value": "\"B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:44:27 GMT"
+          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3659,7 +3659,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yz8w04n08d"
+          "Value": "tnqc2vczbq"
         },
         {
           "Name": "label",
@@ -3667,13 +3667,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cgpo3G/Nl1G3bexM/mAVc/Hd0vy+mChHr0EhlfE8FcE="
+          "Value": "sha256-B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y="
         }
       ]
     },
     {
-      "Route": "js/site.yz8w04n08d.js.gz",
-      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-yz8w04n08d.gz",
+      "Route": "js/site.tnqc2vczbq.js.gz",
+      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-tnqc2vczbq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3682,7 +3682,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1366"
+          "Value": "1420"
         },
         {
           "Name": "Content-Type",
@@ -3690,11 +3690,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Beo3ajxYJXXe/vzr1a7E5b7URR8v+DmddhXVWcacSgI=\""
+          "Value": "\"/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:44:27 GMT"
+          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3712,7 +3712,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yz8w04n08d"
+          "Value": "tnqc2vczbq"
         },
         {
           "Name": "label",
@@ -3720,7 +3720,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Beo3ajxYJXXe/vzr1a7E5b7URR8v+DmddhXVWcacSgI="
+          "Value": "sha256-/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg="
         }
       ]
     },

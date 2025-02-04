@@ -8,7 +8,7 @@
         cancelButton.disabled = false;
         cancelButton.style.display= "block";
         
-        if (button.id === "buttonCancel")  {
+    if (button.id === "buttonCancel")  {
         const url = new URL('/Chat/Cancel', window.location.origin);        
         await fetch(url, { method: 'GET' });
     }  

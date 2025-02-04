@@ -206,7 +206,6 @@ D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\scopedcss
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\scopedcss\projectbundle\OllamaDeepSeek.bundle.scp.css
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\aa2ytb6jno-my1cugyio0.gz
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\r6of1awgyb-61n19gt1b8.gz
-D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\4ekkybjlyn-yz8w04n08d.gz
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\y6kq0f630w-t1cqhe9u97.gz
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\ox6ks8xodq-c2jlpeoesf.gz
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\brts0idqvr-sejl45xvog.gz
@@ -283,3 +282,6 @@ D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\refint\Ol
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\OllamaDeepSeek.pdb
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\OllamaDeepSeek.genruntimeconfig.cache
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\ref\OllamaDeepSeek.dll
+D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\bin\Debug\net9.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\bin\Debug\net9.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\4ekkybjlyn-tnqc2vczbq.gz
