@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p1OfvjDO0axnr40RSscvq0GNcEOMR9mHwwYm+xzuz6g=",
+  "Hash": "n8d2T3qvyLvQJ3syfLBfwBDsSDAtPR+tQn1of6kRe00=",
   "Source": "OllamaDeepSeek",
   "BasePath": "_content/OllamaDeepSeek",
   "Mode": "Default",
@@ -248,12 +248,12 @@
       "OriginalItemSpec": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-tnqc2vczbq.gz",
+      "Identity": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-bnh2dzkzsx.gz",
       "SourceId": "OllamaDeepSeek",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/OllamaDeepSeek",
-      "RelativePath": "js/site#[.{fingerprint=tnqc2vczbq}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=bnh2dzkzsx}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -262,8 +262,8 @@
       "RelatedAsset": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nezn7bke28",
-      "Integrity": "/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg=",
+      "Fingerprint": "8sb1p31flb",
+      "Integrity": "6GbXeMyeIDgaqQmR7D/GL91bWQ9xqkbQBIj3mhzdpAY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\wwwroot\\js\\site.js"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tnqc2vczbq",
-      "Integrity": "B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y=",
+      "Fingerprint": "bnh2dzkzsx",
+      "Integrity": "117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -3427,13 +3427,13 @@
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-tnqc2vczbq.gz",
+      "Route": "js/site.bnh2dzkzsx.js",
+      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-bnh2dzkzsx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000703729768"
+          "Quality": "0.000730994152"
         }
       ],
       "ResponseHeaders": [
@@ -3443,19 +3443,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1420"
+          "Value": "1367"
         },
         {
           "Name": "ETag",
-          "Value": "\"/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg=\""
+          "Value": "\"6GbXeMyeIDgaqQmR7D/GL91bWQ9xqkbQBIj3mhzdpAY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
+          "Value": "Tue, 04 Feb 2025 22:02:47 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3471,18 +3471,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y=\""
+          "Value": "W/\"117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "bnh2dzkzsx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y="
+          "Value": "sha256-117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA="
         }
       ]
     },
     {
-      "Route": "js/site.js",
+      "Route": "js/site.bnh2dzkzsx.js",
       "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3492,7 +3500,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4799"
+          "Value": "4640"
         },
         {
           "Name": "Content-Type",
@@ -3500,121 +3508,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y=\""
+          "Value": "\"117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js.gz",
-      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-tnqc2vczbq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1420"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.tnqc2vczbq.js",
-      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-tnqc2vczbq.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000703729768"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1420"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
+          "Value": "Tue, 04 Feb 2025 22:02:47 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tnqc2vczbq"
+          "Value": "bnh2dzkzsx"
         },
         {
           "Name": "label",
@@ -3622,13 +3530,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y="
+          "Value": "sha256-117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA="
         }
       ]
     },
     {
-      "Route": "js/site.tnqc2vczbq.js",
-      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\wwwroot\\js\\site.js",
+      "Route": "js/site.bnh2dzkzsx.js.gz",
+      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-bnh2dzkzsx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3637,7 +3545,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4799"
+          "Value": "1367"
         },
         {
           "Name": "Content-Type",
@@ -3645,56 +3553,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y=\""
+          "Value": "\"6GbXeMyeIDgaqQmR7D/GL91bWQ9xqkbQBIj3mhzdpAY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tnqc2vczbq"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-B1B//j0gajK/8tVtorJgVo0+3Ca37nIH84uoRJUp+9Y="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.tnqc2vczbq.js.gz",
-      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-tnqc2vczbq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1420"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 21:59:55 GMT"
+          "Value": "Tue, 04 Feb 2025 22:02:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3712,7 +3575,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tnqc2vczbq"
+          "Value": "bnh2dzkzsx"
         },
         {
           "Name": "label",
@@ -3720,7 +3583,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/0UQTd5sCQBE97aRrmq9X5777zix8f7PxqgvF0/dLAg="
+          "Value": "sha256-6GbXeMyeIDgaqQmR7D/GL91bWQ9xqkbQBIj3mhzdpAY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-bnh2dzkzsx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000730994152"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1367"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GbXeMyeIDgaqQmR7D/GL91bWQ9xqkbQBIj3mhzdpAY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 22:02:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 22:02:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "D:\\Projetos\\C#\\DeepSeek\\OllamaDeepSeek\\OllamaDeepSeek\\obj\\Debug\\net9.0\\compressed\\4ekkybjlyn-bnh2dzkzsx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GbXeMyeIDgaqQmR7D/GL91bWQ9xqkbQBIj3mhzdpAY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 22:02:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GbXeMyeIDgaqQmR7D/GL91bWQ9xqkbQBIj3mhzdpAY="
         }
       ]
     },

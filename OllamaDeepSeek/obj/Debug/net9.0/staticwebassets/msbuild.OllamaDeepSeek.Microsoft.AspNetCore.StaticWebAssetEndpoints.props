@@ -36,17 +36,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 20:24:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OllamaDeepSeek/js/site.bnh2dzkzsx.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bnh2dzkzsx"},{"Name":"integrity","Value":"sha256-117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA="},{"Name":"label","Value":"_content/OllamaDeepSeek/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4640"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 22:02:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/OllamaDeepSeek/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-B1B//j0gajK/8tVtorJgVo0\u002B3Ca37nIH84uoRJUp\u002B9Y="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4799"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022B1B//j0gajK/8tVtorJgVo0\u002B3Ca37nIH84uoRJUp\u002B9Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 21:59:55 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/OllamaDeepSeek/js/site.tnqc2vczbq.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tnqc2vczbq"},{"Name":"integrity","Value":"sha256-B1B//j0gajK/8tVtorJgVo0\u002B3Ca37nIH84uoRJUp\u002B9Y="},{"Name":"label","Value":"_content/OllamaDeepSeek/js/site.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4799"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022B1B//j0gajK/8tVtorJgVo0\u002B3Ca37nIH84uoRJUp\u002B9Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 21:59:55 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4640"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022117DgIcglzlpO57SOKDM4yhBZ9lKMffpGW2ckiZhMlA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 22:02:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/OllamaDeepSeek/lib/bootstrap/dist/css/bootstrap-grid.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

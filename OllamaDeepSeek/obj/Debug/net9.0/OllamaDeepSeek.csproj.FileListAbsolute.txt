@@ -284,4 +284,4 @@ D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\OllamaDee
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\ref\OllamaDeepSeek.dll
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\bin\Debug\net9.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
 D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\bin\Debug\net9.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
-D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\4ekkybjlyn-tnqc2vczbq.gz
+D:\Projetos\C#\DeepSeek\OllamaDeepSeek\OllamaDeepSeek\obj\Debug\net9.0\compressed\4ekkybjlyn-bnh2dzkzsx.gz
